@@ -1,0 +1,7 @@
+estou criando esse arquivo de texto em python!
+agora estou aprendendo manipular arquivos!
+maca
+banana
+leite
+pao
+amora
